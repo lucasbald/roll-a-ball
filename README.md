@@ -3,9 +3,12 @@ Esse jogo é uma versão melhorada do Roll a Ball , jogo ensinado nos tutorias d
 
 O jogo:
 
-Direcionais = setas do teclado ou teclas A,S,D,W /n
-Setas vermelhas = faz com que o player salte \n
-Objetivo = coletar todas as moedas disponiveis na fase \n
+Direcionais = setas do teclado ou teclas A,S,D,W 
+
+Setas vermelhas = faz com que o player salte 
+
+Objetivo = coletar todas as moedas disponiveis na fase 
+
 
 
 Créditos:
