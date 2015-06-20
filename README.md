@@ -13,6 +13,6 @@ Objetivo = coletar todas as moedas disponiveis na fase
 
 Créditos:
 
-Unity 3D
+Unity 3D,
 Lucas Baldin e Rodrigo Campos
 
